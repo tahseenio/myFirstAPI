@@ -32,3 +32,9 @@ app.get('/tash', (req, res) => {
     body: 'Hi yes my name is tash',
   });
 });
+
+app.get('/', (req, res) => {
+  res.status(200).send({
+    body: 'Welcome to the home screen of the API',
+  });
+});
