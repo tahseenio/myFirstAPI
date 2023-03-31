@@ -27,9 +27,9 @@ app.post('/tshirt/:id', (req, res) => {
   });
 });
 
-app.get('/tash', (req, res) => {
+app.get('/tahseen', (req, res) => {
   res.status(200).send({
-    body: 'Hi yes my name is tash',
+    body: 'Hi yes my name is tahseen',
   });
 });
 
