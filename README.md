@@ -1,5 +1,5 @@
 # myFirstAPI
-https://sheltered-meadow-27451.herokuapp.com/
+https://my-first-api-iota.vercel.app
 
 ### Fetch my name and some information (GET REQUEST)
 ```js
