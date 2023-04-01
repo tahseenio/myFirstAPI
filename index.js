@@ -38,4 +38,4 @@ app.get('/', (req, res) => {
   });
 });
 
-modules.export = app;
+modules.exports = app;
